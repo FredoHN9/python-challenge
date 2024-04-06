@@ -1,0 +1,7 @@
+(FINANCIAL ANALYSIS)
+----------------------------------
+Total Months: 86
+Total Net Profit/Losses: $22564198.0
+Average Change: -8311.105882352942
+Greatest Increase: ['Mar-13', '1141840']
+Greatest Decrease: ['Dec-10', '-1194133']
