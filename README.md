@@ -17,9 +17,6 @@ This Python script is designed to analyze the financial records of a company usi
 - Run the script by executing 'python main.py' in the command line
 - Script will print the analysis result to the terminal and export it to the 'output.txt' file in 'Analysis' folder in main project directory
 
-### Expected Results
-
-![alt text](bank_results.png)
 
 ## PyPoll - helping a small, rural U.S. town modernise its vote-counting process.
 
@@ -37,7 +34,3 @@ This Python script assists a small, rural U.S. town in modernizing its vote-coun
 - Ensure that 'election_data.csv' is placed in the 'Resources' folder as mentioned above
 - Run the script by executing 'python main.py' in the command line
 - Script will print the analysis result to the terminal and export it to the 'output.txt' file in 'Analysis' folder in main project directory
-
-### Expected Results
-
-![alt text](election_results.png)
